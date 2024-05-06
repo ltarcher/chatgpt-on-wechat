@@ -164,6 +164,10 @@ available_setting = {
     "linkai_api_key": "",
     "linkai_app_code": "",
     "linkai_api_base": "https://api.link-ai.tech",  # linkAI服务地址
+    #本地langchat配置
+    "use_langchat": True,
+    "langchat_base_url": "http://127.0.0.1:7861",
+    "langchat_api_key": ""
 }
 
 
